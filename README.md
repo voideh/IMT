@@ -6,7 +6,7 @@ Using heuristics of letter occurrences in English text to give some letters a hi
   - Cuda verion is 3 files: main.cpp, gpu_monkey.cu and gpu_monkey.h
 
 
-              Changes To Be Made
+  Changes To Be Made
 -------------------------------------------------
   - The key generation needs to change
   - Cascading ifs need to go away...
